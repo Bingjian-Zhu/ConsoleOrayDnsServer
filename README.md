@@ -4,11 +4,11 @@
 
 可运行在Linux平台上，已上传Docker镜像。
 
-### 获取docker镜像：
+#### 获取docker镜像：
 ```
 docker pull zhubingjian/oray_server:1.1
 ```
-### 运行方式：
+#### 运行方式：
 ### 方式1：
 把域名和本机的公网IP绑定，运行时输入自己的花生壳账号信息
 ```
