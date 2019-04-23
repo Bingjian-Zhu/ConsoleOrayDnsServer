@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleOrayDnsServer": {
+      "commandName": "Project",
+      "commandLineArgs": "bj939496716|zbc13679704309"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
